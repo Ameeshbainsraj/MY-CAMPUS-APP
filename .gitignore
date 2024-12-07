@@ -1,0 +1,28 @@
+# React Native
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+
+# Build output
+android/build/
+ios/build/
+ios/Pods/
+ios/Podfile.lock
+
+# Optional files
+.vscode/
+.idea/
+
+# macOS system files
+.DS_Store
+
+# Logs
+*.log
+
+# Expo files
+.expo/
+
+# Environment variables (if you're storing sensitive info)
+.env
