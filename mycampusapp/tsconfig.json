@@ -13,5 +13,5 @@
     "**/*.tsx",
     ".expo/types/**/*.ts",
     "expo-env.d.ts"
-  ]
+, "app/(tabs)/index.js", "app/(tabs)/_layout.js", "app/(tabs)/explore.js", "components/ui/TabBarBackground.js", "components/ui/TabBarBackground.ios.js", "components/ui/IconSymbol.js", "components/ui/IconSymbol.ios.js"  ]
 }
